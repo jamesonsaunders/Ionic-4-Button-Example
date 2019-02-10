@@ -1,6 +1,6 @@
 # Ionic 4 Button Example
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic 4 button Tutorial](https://www.youtube.com/watch?v=lYApTOpBB98).
+This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic 4 Button Tutorial](https://www.youtube.com/watch?v=lYApTOpBB98).
 
 A minimal example of how to get the Ionic 4 Button working on your own site.
 
