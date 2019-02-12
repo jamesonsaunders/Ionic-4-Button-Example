@@ -1,8 +1,8 @@
 {
   "name": "ionic-4-button-example",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
+  "author": "Jami Bot",
+  "homepage": "https://jamibot.com/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
